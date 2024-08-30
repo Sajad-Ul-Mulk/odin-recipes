@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes Website with  multiple Recipies listed in it.
+Recipes Website with  multiple Recipes listed in it.
